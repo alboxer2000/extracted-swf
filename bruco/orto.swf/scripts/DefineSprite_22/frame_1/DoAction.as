@@ -1,0 +1,11 @@
+stop();
+this._visible = false;
+_root.titolo = "Orto cartesiano";
+_root.istruzioni = _root.sCosaFare;
+_root.aiuto = "Devi piantare i cavoli nelle posizioni giuste definite dalle coordinate. Attenzione se sbagli la tua verdura sarà mangiata.";
+_root.exit = "Uscita";
+_root.copyright = "Diritti";
+_root.information = "Informazioni sul gioco";
+_root.help = "Aiuto";
+_root.t_exit = "Vuoi uscire?";
+_root.torna = "Ritorna all\'inizio";
