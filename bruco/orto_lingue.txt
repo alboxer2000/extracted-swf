@@ -1,0 +1,39 @@
+Testo di Help
+
+scritto 
+
+su
+
+più
+
+righe
+
+
+**** inizio parametri ****
+&language=0&
+&t_title=Sceriffo&
+&t_instruction=Aiuta allo sceriffo a trovare tutti i criminali e rinchiuderli in prigione.  Non sara un compito molto difficile per te, se sai fare la scomposizione dei numeri in fattori primi.&
+&p_exit=EXIT&
+&p_copyright=COPYRIGHT&
+&p_information=INFORMATION ABOUT GAME&
+&p_help=HELP&
+&p_return=Return to START&
+&t_exit=Exit now?&
+&t_Help=YOU MUST LEARN ENGLISH VERY WELL TO UNDERSTAND ROOLS&
+// -----------------------------------------------------
+ &sCosaFare=Please help to sceriff... a trovare tutti i criminali e rinchiuderli in prigione.  Non sara un compito molto difficile per te, se sai fare la scomposizione dei numeri in fattori primi.&
+&sGrandezza=Value max: &
+&sHelp=Help?&
+&sBravo=Bravo !!! &
+&sFinale=Complimenti! Sei riuscito a mettere tutti i cattivi in gallera! Un giorno diventerai uno sceriffo come me!&
+&sHaiInseritoUno=Devi inserire un numero maggiore 1&
+&sRiprova=Troppi errori! Riprova.&
+&sPremiInvioPerCominciare=Premi "Invio" per iniziare! &
+&sAttenderePregoCreazioneNumeroInCorso=Attendere prego. Creazione del Numero in corso...&
+&sHaiDimenticatoInput=Hai dimenticato di inserire il numero!&
+&sHaiInseritoNonCifre=Hai inserito un valore non numerico&
+&sHaiInseritoNumeroTroppoGrande=Hai inserito un numero troppo grande!&
+&sHaiSbagliatoRiprova=Hai sbagliato. Riprova!&
+&sSi=Yes&
+&sNo=No&
+

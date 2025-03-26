@@ -1,0 +1,19 @@
+Testo di Help
+
+scritto 
+
+su
+
+più
+
+righe
+
+
+**** inizio parametri ****
+
+&total_Question=8&
+&positive_End=13&
+&negative_End=9&
+&speed=8&
+&internet_On=false&
+&version=windows&

@@ -1,0 +1,17 @@
+Testo di Help
+
+scritto 
+
+su
+
+più
+
+righe
+
+
+**** inizio parametri ****
+
+&full_screen=true&
+&allow_scale=true&
+&menu=false&
+
